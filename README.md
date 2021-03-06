@@ -40,6 +40,17 @@ Akıllı serada bulunan sensörlerin Firebase bağlantısı yapılır. Sensörde
 <p align="center">
 <img src="https://user-images.githubusercontent.com/80172202/110218986-a2d20380-7ecd-11eb-9e5c-b5463e18e438.png" height="360" width="460"> </p>
 
+## Projenin Geleceği
+
+##### Kısa Vadeli Hedefler:
+- Mobil arayüzün eklenmesi
+- Farklı sensörlerin seralara yerleştirilmesi ve uzaktan stabil kontrollerinin sağlanması
+
+##### Uzun Vadeli Hedefler:
+- Seralar dışında, tarlalarda da kullanılabilir akıllı sistemlerin geliştirilmesi
+![image](https://user-images.githubusercontent.com/80172202/110219638-8afc7e80-7ed1-11eb-8ac7-1eeb527f203f.png
+
+
 
 
 
