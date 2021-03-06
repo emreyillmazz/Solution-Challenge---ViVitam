@@ -26,8 +26,8 @@ Akıllı serada bulunan sensörlerin Firebase bağlantısı yapılır. Sensörde
 
 <img src="https://user-images.githubusercontent.com/80172202/110218756-75388a80-7ecc-11eb-8d8a-e3ffa182ac3b.png" height="360" width="460">
 
-- 1. Sera (Sera adı daha sonra kişileştirilebilir) ile bağlantı gerçekleşir ve sensör verileri anında alınır. Multi-threading sayesinde tüm sera işlemleri birbirine beklemeden kendi içinde gerçekleşir
-- 
+- 1.Sera (Sera adı daha sonra kişileştirilebilir) ile bağlantı gerçekleşir ve sensör verileri anında alınır. Multi-threading sayesinde tüm sera işlemleri birbirine beklemeden kendi içinde gerçekleşir
+
 <img src="https://user-images.githubusercontent.com/80172202/110218786-a1540b80-7ecc-11eb-922d-bbf28ba75750.png" height="360" width="460">
 
 
