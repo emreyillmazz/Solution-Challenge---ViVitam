@@ -47,9 +47,9 @@ Akıllı serada bulunan sensörlerin Firebase bağlantısı yapılır. Sensörde
 - Farklı sensörlerin seralara yerleştirilmesi ve uzaktan stabil kontrollerinin sağlanması
 
 ##### Uzun Vadeli Hedefler:
-- Seralar dışında, tarlalarda da kullanılabilir akıllı sistemlerin geliştirilmesi
+- Gelişmiş görüntü işleme sistemleri ile seralarda yetişen ekinlerin olgunluk seviyesi ve kalite durumu tespiti
 <p align="center">
-<img src="https://user-images.githubusercontent.com/80172202/110219638-8afc7e80-7ed1-11eb-8ac7-1eeb527f203f.png"> </p>
+<img src="https://user-images.githubusercontent.com/80172202/110220114-a9b04480-7ed4-11eb-9d74-5ea1c27b4621.png"> </p>
 
 
 
