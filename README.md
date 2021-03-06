@@ -5,6 +5,7 @@
 Tarım ve teknolojinin entegre olamaması sebebiyle tarımda üretim verimliliğinin yetersizliğidir. Seralarda yetişen ürünün sağlıklı olabilmesi optimum iklim koşullarının sağlanması ve korunması, iklim koşullarının sürekli izlenmesi ve gerektiğinde müdahale edilmesi ile sağlanmaktadır. Bu durum otomatik kontrol sistemleri sayesinde bitkinin üretim aşamasındaki kontrolü ile gerçekleştirilmektedir. Seraların verimliliğini arttırmak adına geliştirilen bu otomasyonda sıcaklık, nem, yağmur, ışık miktarı, karbondioksit miktarı, depo seviyesi gibi parametreler kontrol edilmektedir. Mükemmel bir otomasyon sistemi bu etkenleri iyi algılayabilmeli, değerlendirebilmeli ve doğru bir sonuç çıkarabilecek yapıya sahip olmalıdır. Araştırma sonuçlarına göre, 2016 yılında AB’de çalışan başına tarımsal üretimin Türkiye’deki üretimden 38 kat fazla olduğu görülmektedir. (Türkiye Tarım Kredi Kooperatifleri)
 ### Çözüm
 Projemizin başlangıç aşamasında, seraların bir cihaz veya bilgisayar yardımı ile uzaktan;
+
 Sıcaklık Kontrolü
 
 Sulama Kontrolü
