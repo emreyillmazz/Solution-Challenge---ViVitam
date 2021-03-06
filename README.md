@@ -6,10 +6,14 @@ Tarım ve teknolojinin entegre olamaması sebebiyle tarımda üretim verimliliğ
 ### Çözüm
 Projemizin başlangıç aşamasında, seraların bir cihaz veya bilgisayar yardımı ile uzaktan;
 Sıcaklık Kontrolü
+
 Sulama Kontrolü
+
 Havalandırma Kontrolü
+
 Nem Kontrolü
-Kamera ile Canlı Sera İzlemesi yapılarak, zaman, enerji, iş gücü tasarrufu sağlamak ve üretim verimliliğini arttırmak hedeflenmektedir.
+
+Kamera ile Canlı Sera İzlemesi  yapılarak, zaman, enerji, iş gücü tasarrufu sağlamak ve üretim verimliliğini arttırmak hedeflenmektedir.
 
 ![image](https://user-images.githubusercontent.com/80172202/110217996-4b7d6480-7ec8-11eb-9034-a4568a9988a7.png)
 
