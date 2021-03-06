@@ -10,7 +10,8 @@ Sulama Kontrolü
 Havalandırma Kontrolü
 Nem Kontrolü
 Kamera ile Canlı Sera İzlemesi yapılarak, zaman, enerji, iş gücü tasarrufu sağlamak ve üretim verimliliğini arttırmak hedeflenmektedir.
-![image](https://user-images.githubusercontent.com/80172202/110217968-238e0100-7ec8-11eb-99b6-00c99541c80a.png)
+![image](https://user-images.githubusercontent.com/80172202/110217996-4b7d6480-7ec8-11eb-9034-a4568a9988a7.png)
+
 
 
 
