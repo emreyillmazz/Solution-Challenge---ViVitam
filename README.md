@@ -22,10 +22,13 @@ Projemizin başlangıç aşamasında, seraların bir cihaz veya bilgisayar yard�
 ## ViVitam App
 Akıllı serada bulunan sensörlerin Firebase bağlantısı yapılır. Sensörden okunan veriler Firebase’e aktarılır. Flutter üzerinden yazılan masaüstü uygulaması Firebase üzerinden bu değerleri gösterir. Aynı zamanda uygulama arayüzü üzerinden değiştirilen değerler Firebase tarafından sensörlere iletilir. Böylelikle sera yönetimi anlık ve hızlı olarak gerçekleştirilebilir. 
 
-<img src="https://user-images.githubusercontent.com/80172202/110218361-854f6a80-7eca-11eb-83a3-6303dac41675.png" height="360" width="460">
-
 - Masaüstü uygulaması ilk açıldığında bağlantı kurulmasını bekler. Birden çok serayı aynı anda denetleme özelliği bulunur. Demo versiyon olarak sadece sıcaklık kontrolü üzerine durulmuştur.
 
+<img src="https://user-images.githubusercontent.com/80172202/110218756-75388a80-7ecc-11eb-8d8a-e3ffa182ac3b.png" height="360" width="460">
+
+- 1. Sera (Sera adı daha sonra kişileştirilebilir) ile bağlantı gerçekleşir ve sensör verileri anında alınır. Multi-threading sayesinde tüm sera işlemleri birbirine beklemeden kendi içinde gerçekleşir
+- 
+<img src="https://user-images.githubusercontent.com/80172202/110218786-a1540b80-7ecc-11eb-922d-bbf28ba75750.png" height="360" width="460">
 
 
 
