@@ -28,11 +28,12 @@ Akıllı serada bulunan sensörlerin Firebase bağlantısı yapılır. Sensörde
  <img src="https://user-images.githubusercontent.com/80172202/110218756-75388a80-7ecc-11eb-8d8a-e3ffa182ac3b.png" height="360" width="460"> </p>
 
 - Sera 1 (Sera adı daha sonra kişileştirilebilir) ile bağlantı gerçekleşir ve sensör verileri anında alınır. Multi-threading sayesinde tüm sera işlemleri birbirine beklemeden kendi içinde gerçekleşir
-
-<img src="https://user-images.githubusercontent.com/80172202/110218786-a1540b80-7ecc-11eb-922d-bbf28ba75750.png" height="360" width="460">
+<p align="center">
+<img src="https://user-images.githubusercontent.com/80172202/110218786-a1540b80-7ecc-11eb-922d-bbf28ba75750.png" height="360" width="460"> </p>
 
 - Akıllı serayı kapatırsanız o an çalışan tüm ısıtıcılar sensörler kapatılır. Böylelikle sera hava sıcaklığına göre çalışır. Tekrardan sera açılabilir.
-<img src="https://user-images.githubusercontent.com/80172202/110218841-ea0bc480-7ecc-11eb-9e5b-11847b2043a7.png" height="360" width="460">
+<p align="center">
+<img src="https://user-images.githubusercontent.com/80172202/110218841-ea0bc480-7ecc-11eb-9e5b-11847b2043a7.png" height="360" width="460"> </p>
 
 
 
