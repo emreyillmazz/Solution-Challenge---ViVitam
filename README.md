@@ -36,6 +36,12 @@ Akıllı serada bulunan sensörlerin Firebase bağlantısı yapılır. Sensörde
 <p align="center">
 <img src="https://user-images.githubusercontent.com/80172202/110218841-ea0bc480-7ecc-11eb-9e5b-11847b2043a7.png" height="360" width="460"> </p>
 
+- Seranın sıcaklık değerini değiştirmek için mor ile gösterilen sıcaklık çevirici fare ile döndürülür. Sağ tarafında bulunan değer hedeflenen sıcaklıktır. Sera sıcaklığı bu hedeflenen sıcaklığa yakınsayacak şekilde çalışır.
+<p align="center">
+<img src="https://user-images.githubusercontent.com/80172202/110218986-a2d20380-7ecd-11eb-9e5c-b5463e18e438.png" height="360" width="460"> </p>
+
+
+
 
 
 
