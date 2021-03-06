@@ -48,9 +48,8 @@ Akıllı serada bulunan sensörlerin Firebase bağlantısı yapılır. Sensörde
 
 ##### Uzun Vadeli Hedefler:
 - Seralar dışında, tarlalarda da kullanılabilir akıllı sistemlerin geliştirilmesi
-
-![image](https://user-images.githubusercontent.com/80172202/110219638-8afc7e80-7ed1-11eb-8ac7-1eeb527f203f.png)
-
+<p align="center">
+<img src="https://user-images.githubusercontent.com/80172202/110219638-8afc7e80-7ed1-11eb-8ac7-1eeb527f203f.png"> </p>
 
 
 
