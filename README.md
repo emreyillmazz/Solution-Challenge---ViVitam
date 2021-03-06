@@ -24,6 +24,10 @@ Akıllı serada bulunan sensörlerin Firebase bağlantısı yapılır. Sensörde
 
 <img src="https://user-images.githubusercontent.com/80172202/110218361-854f6a80-7eca-11eb-83a3-6303dac41675.png" height="360" width="460">
 
+- Masaüstü uygulaması ilk açıldığında bağlantı kurulmasını bekler. Birden çok serayı aynı anda denetleme özelliği bulunur. Demo versiyon olarak sadece sıcaklık kontrolü üzerine durulmuştur.
+
+
+
 
 
 
