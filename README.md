@@ -4,7 +4,7 @@
 ### Projenin Çıkış Noktası
 Tarım ve teknolojinin entegre olamaması sebebiyle tarımda üretim verimliliğinin yetersizliğidir. Seralarda yetişen ürünün sağlıklı olabilmesi optimum iklim koşullarının sağlanması ve korunması, iklim koşullarının sürekli izlenmesi ve gerektiğinde müdahale edilmesi ile sağlanmaktadır. Bu durum otomatik kontrol sistemleri sayesinde bitkinin üretim aşamasındaki kontrolü ile gerçekleştirilmektedir. Seraların verimliliğini arttırmak adına geliştirilen bu otomasyonda sıcaklık, nem, yağmur, ışık miktarı, karbondioksit miktarı, depo seviyesi gibi parametreler kontrol edilmektedir. Mükemmel bir otomasyon sistemi bu etkenleri iyi algılayabilmeli, değerlendirebilmeli ve doğru bir sonuç çıkarabilecek yapıya sahip olmalıdır. Araştırma sonuçlarına göre, 2016 yılında AB’de çalışan başına tarımsal üretimin Türkiye’deki üretimden 38 kat fazla olduğu görülmektedir. (Türkiye Tarım Kredi Kooperatifleri)
 <p align="center">
-![image](https://user-images.githubusercontent.com/80172202/110217996-4b7d6480-7ec8-11eb-9034-a4568a9988a7.png) </p>
+<img src="https://user-images.githubusercontent.com/80172202/110217996-4b7d6480-7ec8-11eb-9034-a4568a9988a7.png" > </p>
 
 ### Çözüm
 Projemizin başlangıç aşamasında, seraların bir cihaz veya bilgisayar yardımı ile uzaktan;
